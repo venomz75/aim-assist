@@ -1,4 +1,3 @@
-#include <Windows.h>
 #include "bunnyhop.h"
 
 void bhop::bunnyHop(uintptr_t ptrForceJump, uintptr_t ptrFlags)

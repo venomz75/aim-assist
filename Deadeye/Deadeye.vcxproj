@@ -152,12 +152,14 @@
     <ClInclude Include="aimbot.h" />
     <ClInclude Include="bunnyhop.h" />
     <ClInclude Include="fov_changer.h" />
+    <ClInclude Include="anti_recoil.h" />
     <ClInclude Include="keybinds.h" />
     <ClInclude Include="offsets.h" />
     <ClInclude Include="vector3.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="aimbot.cpp" />
+    <ClCompile Include="anti_recoil.cpp" />
     <ClCompile Include="bunnyhop.cpp" />
     <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="fov_changer.cpp" />
