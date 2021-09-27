@@ -8,3 +8,5 @@ uintptr_t keyHeadAim = VK_NUMPAD0;
 uintptr_t keyIncreaseFOV = VK_NUMPAD8;
 uintptr_t keyDefaultFOV = VK_NUMPAD5;
 uintptr_t keyDecreaseFOV = VK_NUMPAD2;
+uintptr_t keyIncreaseViewmodelFOV = VK_NUMPAD6;
+uintptr_t keyDecreaseViewmodelFOV = VK_NUMPAD4;
