@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Deadeye", "Deadeye\Deadeye.vcxproj", "{5B47F895-A310-463F-BE09-98E170C10E0B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "aim-assist", "aim-assist\aim-assist.vcxproj", "{5B47F895-A310-463F-BE09-98E170C10E0B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{697E3AB4-CD0C-4919-8A5E-4DBE53D7A773}"
 EndProject
